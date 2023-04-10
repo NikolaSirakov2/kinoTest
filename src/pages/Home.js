@@ -2,9 +2,13 @@ import React from "react";
 
 export default class HomePage extends React.Component {
 
+    componentDidMount() {
+        
+    }
+
     render() {
         return <>
-            <div>Home Page</div>
+        <p>Test</p>
         </>
     }
 
