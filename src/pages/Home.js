@@ -9,7 +9,7 @@ export default class HomePage extends React.Component {
 
     render() {
         return <>
-        <p>Test</p>
+        <h1>Home</h1>
         </>
     }
 
